@@ -2,7 +2,7 @@
 
 **Medi-Mate** is an intelligent Retrieval-Augmented Generation (RAG) application designed to help users manage and understand their medical prescriptions. Built with **Streamlit**, **Google Gemini**, and **Pinecone**, it allows users to upload prescriptions, ask questions, and even schedule medicine reminders directly to their Google Calendar.
 
-![Medi-Mate Demo]([https://via.placeholder.com/800x400?text=Medi-Mate+Dashboard+Screenshot](https://github.com/Shreeehe/Medi-Mate/blob/main/Sample.mp4))
+![Medi-Mate Demo](https://github.com/Shreeehe/Medi-Mate/raw/refs/heads/main/Sample.mp4)
 
 ## 🌟 Features
 
@@ -101,4 +101,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
